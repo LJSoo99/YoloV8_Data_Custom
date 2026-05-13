@@ -16,14 +16,9 @@ YOLOv8 기반 객체 탐지 모델 학습을 위해
 
 객체 탐지 모델 학습 과정과 데이터 전처리 흐름을 이해하는 것을 목표로 진행했습니다.
 
+<img width="3940" height="1920" alt="mergepictures net-merged-1778696029  (1)" src="https://github.com/user-attachments/assets/489882f3-33a8-4492-bc98-08d5a30890db" />
 
-<img width="1920" height="1920" alt="train_batch0" src="https://github.com/user-attachments/assets/76348eec-69cd-4fc1-9a31-d4011ca99a6d" />
-<img width="1920" height="1920" alt="train_batch0_1" src="https://github.com/user-attachments/assets/15045d8f-f8a4-4433-a641-7db8a413c9d4" />
-![Uploading 화면 캡처 2026-05-14 030645.png…]()
-<img width="794" height="490" alt="화면 캡처 2026-05-14 030627" src="https://github.com/user-attachments/assets/4b5b167b-9a2a-43ce-aeec-bf73a3b57950" />
-![Uploading train_batch0.jpg…]()
-<img width="794" height="490" alt="화면 캡처 2026-05-14 030627" src="https://github.com/user-attachments/assets/653cb1f5-c2ed-4d3a-94b1-17fc35528620" />
-
+<img width="1699" height="490" alt="mergepictures net-merged-1778695987" src="https://github.com/user-attachments/assets/2db4d11e-916b-446d-9ca7-098d3a5f263d" />
 
 ---
 

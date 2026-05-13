@@ -18,7 +18,8 @@ YOLOv8 기반 객체 탐지 모델 학습을 위해
 
 <img width="3940" height="1920" alt="mergepictures net-merged-1778696029  (1)" src="https://github.com/user-attachments/assets/489882f3-33a8-4492-bc98-08d5a30890db" />
 
-<img width="1699" height="490" alt="mergepictures net-merged-1778695987" src="https://github.com/user-attachments/assets/2db4d11e-916b-446d-9ca7-098d3a5f263d" />
+<img width="1698" height="490" alt="KakaoTalk_20260514_031943276" src="https://github.com/user-attachments/assets/ce7813de-bce7-4b94-ac13-6060184fe2fc" />
+
 
 ---
 

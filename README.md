@@ -7,12 +7,12 @@ YOLOv8 기반 객체 탐지 모델 학습을 위해
 
 이 프로젝트에서는 다음 과정을 직접 구현했습니다.
 
-- pretrained YOLOv8 모델 추론
+- pretrained YOLOv8 모델 추론(hardhat.pt)
 - 특정 클래스(person) 라벨 추출
 - 클래스 번호 변환
 - 라벨 병합 자동화
 - train / validation 데이터 분리
-- YOLOv8 커스텀 학습
+- YOLOv8 커스텀 재학습
 
 객체 탐지 모델 학습 과정과 데이터 전처리 흐름을 이해하는 것을 목표로 진행했습니다.
 
@@ -94,7 +94,7 @@ YOLOv8 기반 객체 탐지 모델 학습을 위해
 ## 전체 작업 흐름
 
 ```text
-Pretrained YOLOv8 추론
+Pretrained YOLOv8 추론(hardhat.pt)
             ↓
 특정 클래스 라벨 추출
             ↓
@@ -102,7 +102,7 @@ Pretrained YOLOv8 추론
             ↓
 Train / Validation 데이터 구성
             ↓
-커스텀 YOLOv8 모델 학습
+커스텀 YOLOv8 모델 재학습
 ```
 
 ---
